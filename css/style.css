@@ -1,0 +1,23 @@
+.sidenav-overlay{
+    opacity: 0.9;
+}
+.card-image>span{
+    width: 100%;
+}
+footer a:visited{
+    color: white;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+.parallax-container {
+    box-sizing: border-box;
+    height:87vh;
+    padding-top: 5vw;
+}
+    
